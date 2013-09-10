@@ -9,5 +9,6 @@ namespace TEDDemo.Web.Models
     {
         public string Id { get; set; }
         public string CustomerName { get; set; }
+        public string Address { get; set; }
     }
 }
